@@ -1,4 +1,3 @@
-
 Feature:Hello Karate
 
   Scenario: How to print

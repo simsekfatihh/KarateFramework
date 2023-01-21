@@ -8,7 +8,6 @@ Feature: Hello Assertion
     * match name != "David Ray"
 
 
-  @Wip
   Scenario: more matching example
     * def employee =
     """
